@@ -4,3 +4,5 @@ A GUI based application to store data in hdfs filesystem and to analyse the data
 
 Make a Mysql database with name - PRO
 Create two tables named - LOGIN (to store username and password) and IP (nodes information) or they will be created automatically.
+
+Docker image will be uploaded soon.
